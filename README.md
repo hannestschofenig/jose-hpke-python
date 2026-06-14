@@ -1,12 +1,12 @@
-# `jose_hpke` Python Package
+# `jose-hpke-python`
 
-`jose_hpke` implements the JOSE-HPKE processing rules defined by
+`jose-hpke-python` implements the JOSE-HPKE processing rules defined by
 `draft-ietf-jose-hpke-encrypt`. It supports HPKE Integrated Encryption and
 HPKE Key Encryption, uses COSE Key structures for recipient keys, and can
 produce and consume JWE Compact, Flattened JSON, and General JSON
 serializations.
 
-> This package implements an Internet-Draft. The format and algorithm
+> Important: This package implements an Internet-Draft. The format and algorithm
 > identifiers may change before publication as an RFC.
 
 ## Components
